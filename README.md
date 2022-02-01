@@ -1,0 +1,1 @@
+This repository contains the website and resources used for building the virtual flier for Mrs Olutayo Samuel's Retirement Party.
